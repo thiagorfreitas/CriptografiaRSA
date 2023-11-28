@@ -27,7 +27,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issue
 ## Autor
 
 Este projeto foi desenvolvido por Thiago Freitas.
-
-## Licença
-
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
